@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avesh/static/css/main.895d993f.css",
+    "main.js": "/avesh/static/js/main.8db1b0b9.js",
+    "static/js/787.c075ba41.chunk.js": "/avesh/static/js/787.c075ba41.chunk.js",
+    "index.html": "/avesh/index.html",
+    "main.895d993f.css.map": "/avesh/static/css/main.895d993f.css.map",
+    "main.8db1b0b9.js.map": "/avesh/static/js/main.8db1b0b9.js.map",
+    "787.c075ba41.chunk.js.map": "/avesh/static/js/787.c075ba41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.895d993f.css",
+    "static/js/main.8db1b0b9.js"
+  ]
+}
